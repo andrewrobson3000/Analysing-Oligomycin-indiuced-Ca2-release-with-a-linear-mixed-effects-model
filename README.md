@@ -26,4 +26,3 @@ To use these scripts, you will need R installed on your computer along with the 
 Set the working directory to the location of your data file and adjust the script to match your dataset structure as needed.
 
 
-https://github.com/andrewrobson3000/Analysing-Oligomycin-indiuced-Ca2-release-with-a-linear-mixed-effects-model/assets/87878168/79b739ae-c259-4889-aed6-664b586aa5a8
